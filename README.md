@@ -23,8 +23,7 @@ textual-music-player/
 ├── appstyles.css # Textual styling file
 ├── requirements.txt # Dependencies list
 ├── README.md # Documentation
-├── LICENSE # MIT License
-└── .gitignore # Ignore temporary and local files
+└── LICENSE #MIT LICENSE
 
 
 ---
