@@ -17,6 +17,7 @@ It lets you create and manage playlists, add songs, shuffle, and control playbac
 ---
 
 ##  Project Structure
+```
 textual-music-player/
 │
 ├── music_app.py # Main application
@@ -24,6 +25,7 @@ textual-music-player/
 ├── requirements.txt # Dependencies list
 ├── README.md # Documentation
 └── LICENSE #MIT LICENSE
+```
 
 
 ---
