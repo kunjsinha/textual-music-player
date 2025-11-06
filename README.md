@@ -41,7 +41,7 @@ cd textual-music-player
 
 ---
 
-## Create and Activate a Virtual Environment
+### 2. Create and Activate a Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # macOS / Linux
@@ -51,14 +51,14 @@ venv\Scripts\activate      # Windows
 
 ---
 
-## Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-## Run the App
+### 4. Run the App
 ```bash
 python music_app.py
 ```
