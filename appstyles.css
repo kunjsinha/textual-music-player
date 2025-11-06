@@ -1,0 +1,42 @@
+/* Main background */
+#main {
+    background: #ddc5c5;
+}
+
+/* Panels */
+#left_panel, #right_panel {
+    border: solid #000000;
+    background: #ddc5c5;
+    padding: 1;
+    margin: 1;
+}
+#playlist_list, #song_list {
+    border: solid #000000;
+    background: #ddc5c5;
+    color: #000000;
+    padding: 1;
+}
+
+/* Playlist and song list items */
+ListView > ListItem {
+    background: #ddc5c5;
+    color: #000000;
+    border: solid #000000;
+    padding: 0 1;
+}
+#input_pname {
+    background: #ddc5c5;
+    color: #000000;
+    border: solid #000000;
+
+}
+/* Buttons */
+Button {
+    background: #ddc5c5;
+    color: #000000;
+    border: solid #000000;
+
+}
+
+/* Progress bar */
+
