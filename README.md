@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ## Run the App
 ```bash
-python3 music_app.py
+python music_app.py
 ```
 
 ---
