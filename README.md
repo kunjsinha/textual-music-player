@@ -43,7 +43,7 @@ cd textual-music-player
 
 ## Create and Activate a Virtual Environment
 ```bash
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate   # macOS / Linux
 # or
 venv\Scripts\activate      # Windows
